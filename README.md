@@ -9,6 +9,7 @@ Restreamer-Dashboard is a custom UI built on Node-Red to control many functions 
 - 6 pre-built audio sources, with an additional 3 customizable ones
 - Full audio management, including individual volume sliders and mute controls
 - Fully functional preview and program, powered by [OBS.Ninja](https://obs.ninja/)
+- Auto Record: Record whenever you're not in an intermission
 - Full monitoring tab with all OBS stats and Twitch feed
 - Password-protected controls including start/stop streaming and recording
 - NodeCG integration including timer and run control
