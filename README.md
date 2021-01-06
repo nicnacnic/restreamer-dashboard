@@ -34,7 +34,7 @@ There are 25 pre-built layouts available, plus 5 customizable buttons in the sce
 For a full installation and user guide, please visit the [wiki](https://github.com/nicnacnic/Restreamer-Dashboard/wiki).
 
 ## Suggestions And Support
-The dashboard is still being developed, so if you come across any bugs or have any suggestions, please let me know by checking the list of [known bugs](https://github.com/nicnacnic/Restreamer-Dashboard/wiki) If your issue isn't listed, please create an issue in the [issue tracker](https://github.com/nicnacnic/Restreamer-Dashboard/issues)!
+The dashboard is still being developed, so if you come across any bugs or have any suggestions, please let me know by checking the list of [known bugs](https://github.com/nicnacnic/Restreamer-Dashboard/wiki), and creating an issue in the [issue tracker](https://github.com/nicnacnic/Restreamer-Dashboard/issues) if it isn't listed.
 
 If you're having issues installing or using the dashboard, I can be reached through my Discord server. Be aware that I'm usually busy with multiple marathons and other projects so I might not be able to help you right away.
 
