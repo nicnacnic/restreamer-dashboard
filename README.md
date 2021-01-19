@@ -2,7 +2,7 @@
 A visual dashboard to control OBS from another location.
 
 ## About
-Restreamer-Dashboard is a custom UI built on Node-Red to control many functions of OBS, without actually connecting to the host's computer. This is aimed at speedrunning marathons, therefore most of the functions one might use are included, such as scene-switching, audio management and more. Unlike Teamviewer, the restreamer never has access to the host's computer, and this can even be ran off a webserver!
+restreamer-dashboard is a custom UI built on Node-Red to control many functions of OBS, without actually connecting to the host's computer. This is aimed at speedrunning marathons, therefore most of the functions one might use are included, such as scene-switching, audio management and more. Unlike Teamviewer, the never has access to the host's computer, and this can even be ran off a webserver!
 
 ### Features
 - 25 pre-built scenes, with an additional 5 customizable ones
