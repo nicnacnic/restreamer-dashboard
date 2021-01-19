@@ -32,6 +32,8 @@ To switch a scene, it's as simple as selecting the layout, entering the runner's
 
 There are 25 pre-built layouts available, plus 5 customizable buttons in the scene panel for those unusual game layouts. Same goes for audio, with 6 pre-built audio controls, plus 3 additional customizable audio controls if you ever need to add an audio source.
 
+It also comes with a OBS scene collection that you can use, but you are welcome to make your own!
+
 For a full installation and user guide, please visit the [wiki](https://github.com/nicnacnic/Restreamer-Dashboard/wiki).
 
 ## Marathon Layouts!
