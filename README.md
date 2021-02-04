@@ -1,3 +1,5 @@
+![](https://github.com/nicnacnic/restreamer-dashboard/blob/main/images/cover.png?raw=true)
+
 # Restreamer-Dashboard
 A visual dashboard to control OBS from another location.
 
