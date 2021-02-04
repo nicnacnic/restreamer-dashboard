@@ -40,7 +40,7 @@ If you end up using restreamer-dashboard during your marathon/event, it would be
 For a full installation and user guide, please visit the [wiki](https://github.com/nicnacnic/Restreamer-Dashboard/wiki).
 
 ## Marathon Layouts
-If you need a pack of marathon layouts to customize, check out my NodeCG bundle! [nicnacnic/nodecg-marathon-layouts](https://github.com/nicnacnic/nodecg-marathon-layouts)
+If you need a pack of marathon layouts to customize, check out my NodeCG bundle! [nicnacnic/nodecg-marathon-layouts](https://github.com/nicnacnic/speedcontrol-layouts)
 
 ## Suggestions And Support
 The dashboard is still being developed, so if you come across any bugs or have any suggestions, please let me know by checking the list of [known bugs](https://github.com/nicnacnic/Restreamer-Dashboard/wiki), and creating an issue in the [issue tracker](https://github.com/nicnacnic/Restreamer-Dashboard/issues) if it isn't listed.
