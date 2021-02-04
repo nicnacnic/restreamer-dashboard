@@ -18,6 +18,8 @@ restreamer-dashboard is a custom UI built on Node-Red to control many functions 
 - Support for both Twitch and RTMP streams
 - Support for HTTPS and password authentication
 
+A detailed explanation of the features can be found on the [wiki](https://github.com/nicnacnic/restreamer-dashboard/wiki/Using-The-Dashboard).
+
 ## Requirements
 Administrator privileges will be needed to install. Some of these programs use the command line, you should be comfortable using Command Prompt or similar.
 - [Git For Windows](https://git-scm.com/downloads)
