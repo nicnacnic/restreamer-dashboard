@@ -2,10 +2,10 @@
 A visual dashboard to control OBS from another location.
 
 ## About
-restreamer-dashboard is a custom UI built on Node-Red to control many functions of OBS, without actually connecting to the host's computer. This is aimed at speedrunning marathons, therefore most of the functions one might use are included, such as scene-switching, audio management and more. Unlike Teamviewer, the never has access to the host's computer, and this can even be ran off a webserver!
+restreamer-dashboard is a custom UI built on Node-Red to control many functions of OBS, without actually connecting to the host's computer. This is aimed at speedrunning marathons, therefore most of the functions one might use are included, such as scene-switching, audio management and more. Unlike Teamviewer, the restreamer never has direct access to the host's computer, and this can even be ran off a webserver!
 
 ### Features
-- 25 pre-built scenes, with an additional 5 customizable ones
+- 16 pre-built scenes, with an additional 5 customizable ones
 - 6 pre-built audio sources, with an additional 3 customizable ones
 - Full audio management, including individual volume sliders and mute controls
 - Fully functional preview and program, powered by [OBS.Ninja](https://obs.ninja/)
@@ -13,6 +13,7 @@ restreamer-dashboard is a custom UI built on Node-Red to control many functions 
 - Full monitoring tab with all OBS stats and Twitch feed
 - Password-protected controls including start/stop streaming and recording
 - NodeCG integration including timer and run control
+- Support for both Twitch and RTMP streams
 - Support for HTTPS and password authentication
 
 ## Requirements
@@ -28,11 +29,13 @@ Not required, but _highly_ recommended.
 
 ## Using The Dashboard
 The UI makes the dashboard super simple to use! All functions are neatly sorted into different pages, accessible by using the menu on the top-left.
-To switch a scene, it's as simple as selecting the layout, entering the runner's Twitch name, and pressing the transition button. With NodeCG integration, controlling the timer and run information is a breeze. 
+To switch a scene, it's as simple as selecting the layout, entering the runner's Twitch name or stream key, and pressing the transition button. With NodeCG integration, controlling the timer and run information is a breeze. 
 
-There are 25 pre-built layouts available, plus 5 customizable buttons in the scene panel for those unusual game layouts. Same goes for audio, with 6 pre-built audio controls, plus 3 additional customizable audio controls if you ever need to add an audio source.
+There are 16 pre-built layouts available, plus 5 customizable buttons in the scene panel for those unusual game layouts. Same goes for audio, with 6 pre-built audio controls, plus 3 additional customizable audio controls if you ever need to add an audio source.
 
-It also comes with a OBS scene collection that you can use, but you are welcome to make your own!
+It also comes with two OBS scene collections that you can use, one for Twitch and one for RTMP, but you are welcome to make your own!
+
+If you end up using restreamer-dashboard during your marathon/event, it would be greatly appreciated if you included the repository name and author in your end credits. Thank you!
 
 For a full installation and user guide, please visit the [wiki](https://github.com/nicnacnic/Restreamer-Dashboard/wiki).
 
