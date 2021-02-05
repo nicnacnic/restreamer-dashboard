@@ -1,7 +1,7 @@
 ![](https://github.com/nicnacnic/restreamer-dashboard/blob/main/images/cover.png)
 
 # Restreamer-Dashboard
-A visual dashboard to control OBS from another location.
+A visual dashboard using Node-Red to control OBS from another location.
 
 [![Release](https://img.shields.io/github/v/release/nicnacnic/restreamer-dashboard?label=Release)](https://github.com/nicnacnic/restreamer-dashboard/releases)
 ![Downloads](https://img.shields.io/github/downloads/nicnacnic/restreamer-dashboard/total?label=Downloads)
