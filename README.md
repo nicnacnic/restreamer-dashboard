@@ -3,7 +3,7 @@
 # Restreamer-Dashboard
 A visual dashboard to control OBS from another location.
 
-![Release](https://img.shields.io/github/v/release/nicnacnic/restreamer-dashboard?label=Release)
+[![Release](https://img.shields.io/github/v/release/nicnacnic/restreamer-dashboard?label=Release)](https://github.com/nicnacnic/restreamer-dashboard/releases)
 ![Downloads](https://img.shields.io/github/downloads/nicnacnic/restreamer-dashboard/total?label=Downloads)
 ![License](https://img.shields.io/github/license/nicnacnic/restreamer-dashboard?label=License)
 ![Twitter](https://img.shields.io/twitter/follow/nicnacnic11?style=social)
