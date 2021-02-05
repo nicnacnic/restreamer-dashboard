@@ -60,7 +60,7 @@ Kuno Demetries, for letting me test this dashboard on his marathon, and putting 
 
 The Midwest Speedfest crew, for helping out with my NodeCG issues and for overall being such cool people :D
 
-## Lisence
+## License
 MIT License
 
 Copyright (c) 2021 nicnacnic
