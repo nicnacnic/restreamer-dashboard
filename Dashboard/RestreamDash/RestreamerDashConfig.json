@@ -1,0 +1,71 @@
+{
+	"UseRTMP":false,
+	"RTMPServerURL":"rtmp://rtmp.nicnacnic.com/live",
+	
+	"WebsocketPassword":"Kunodaddy",
+	"AdvancedPassword":"Kunodaddy",
+	"NodeCGDashboardIP":"https://dashboard.nicnacnic.com:9090",
+	"MonitoringTwitchChannel":"esamarathon",
+	"DashboardURLParent":"dashboard.nicnacnic.com",
+	"OBSPreview":"https://obs.ninja/?view=ubjFhYx",
+	"OBSProgram":"https://obs.ninja/?view=AxZW48A",
+	"AutoRecord":true,
+	"Transition":"Stinger",
+	"Cut":"Cut",
+	
+	"Scenes" :{
+		"Intermission":"Intermission",
+		"Countdown":"Countdown",
+		"Interview":"Interview",
+		"BlankScreen":"Blank Screen",
+		"TechDifficulty":"Tech Difficulties",
+		
+		"4x3_1p":"4:3 1p",
+		"4x3_2p":"4:3 2p",
+		"4x3_3p":"4:3 3p",
+		"4x3_4p":"4:3 4p",
+			
+		"16x9_1p":"16:9 1p",
+		"16x9_2p":"16:9 2p",
+		"16x9_3p":"16:9 3p",
+		"16x9_4p":"16:9 4p",
+		
+		"GB":"GB",
+		"GBA":"GBA",
+		"DS":"DS",
+		"3DS":"3DS",
+		
+		"Custom1Name":"Custom 1",
+		"Custom1":"Custom 1",
+		
+		"Custom2Name":"Custom 2",
+		"Custom2":"Custom 2",
+		
+		"Custom3Name":"Custom 3",
+		"Custom3":"Custom 3",
+		
+		"Custom4Name":"Custom 4",
+		"Custom4":"Custom 4",
+		
+		"Custom5Name":"Custom 5",
+		"Custom5":"Custom 5"
+	},
+	
+	"Audio" :{
+		"P1Audio":"P1 Browser",
+		"P2Audio":"P2 Browser",
+		"P3Audio":"P3 Browser",
+		"P4Audio":"P4 Browser",
+		"Discord":"Discord",
+		"Music":"Music",
+		
+		"Custom1Name":"Custom Audio 1",
+		"Custom1":"Custom Audio 1",
+		
+		"Custom2Name":"Custom Audio 2",
+		"Custom2":"Custom Audio 2",
+		
+		"Custom3Name":"Custom Audio 3",
+		"Custom3":"Custom Audio 3"
+	}
+}
