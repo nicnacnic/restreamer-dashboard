@@ -3,6 +3,8 @@
 # Restreamer-Dashboard
 A visual dashboard to control OBS from another location.
 
+[![Discord](https://img.shields.io/discord/715691013825364120.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/A34Qpfe)
+
 ## About
 restreamer-dashboard is a custom UI built on Node-Red to control many functions of OBS, without actually connecting to the host's computer. This is aimed at speedrunning marathons, therefore most of the functions one might use are included, such as scene-switching, audio management and more. Unlike Teamviewer, the restreamer never has direct access to the host's computer, and this can even be ran off a webserver!
 
@@ -49,7 +51,7 @@ If you need a pack of marathon layouts to customize, check out my NodeCG bundle!
 ## Suggestions And Support
 The dashboard is still being developed, so if you come across any bugs or have any suggestions, please let me know by checking the list of [known bugs](https://github.com/nicnacnic/Restreamer-Dashboard/wiki), and creating an issue in the [issue tracker](https://github.com/nicnacnic/Restreamer-Dashboard/issues) if it isn't listed.
 
-If you're having issues installing or using the dashboard, I can be reached through my Discord server. Be aware that I'm usually busy with multiple marathons and other projects so I might not be able to help you right away.
+If you're having issues installing or using the dashboard, I can be reached through my [Discord](https://discord.gg/A34Qpfe) server. Be aware that I'm usually busy with multiple marathons and other projects so I might not be able to help you right away.
 
 ## Special Thanks
 TokkoTomcat and Disdonn, for original testing and bug-finding.
