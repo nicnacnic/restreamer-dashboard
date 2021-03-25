@@ -53,7 +53,7 @@ For a full installation and user guide, please visit the [wiki](https://github.c
 If you need a pack of marathon layouts to customize, check out my NodeCG bundle! [nicnacnic/speedcontrol-layouts](https://github.com/nicnacnic/speedcontrol-layouts)
 
 ## Commission Work
-As of March 13th, 2021, I am now offering some commission work! For a small fee, I'll be happy to make some modifications to the dashbaord to suit your needs! Everything from adding a feature, creating and updating layouts, or managing the dashboard during your marathon, and more! The price ranges from $20 to $200 depending on the size of your marathon and your needs. Since I do work on a bunch of other marathons, availability may be limited, so please reach out to me on Discord. For more information visit [https://nicnacnic.com](https://nicnacnic.com) (website still being built ATM).
+I'm now offering commission work! For a small fee, I can make custom layouts, modifications to the dashboard, managing NodeCG and more! Prices usually range from $20 to $200. For more information visit [https://www.nicnacnic.com/commission-work](https://www.nicnacnic.com/commission-work) or contact me through Discord.
 
 ## Suggestions And Support
 The dashboard is still being developed, so if you come across any bugs or have any suggestions, please let me know by checking the list of [known bugs](https://github.com/nicnacnic/Restreamer-Dashboard/wiki), and creating an issue in the [issue tracker](https://github.com/nicnacnic/Restreamer-Dashboard/issues) if it isn't listed.
