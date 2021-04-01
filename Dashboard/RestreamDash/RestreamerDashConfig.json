@@ -7,8 +7,6 @@
 	"NodeCGDashboardIP":"http://localhost:9090",
 	"MonitoringTwitchChannel":"nicnacnic",
 	"DashboardURLParent":"twitch.tv",
-	"OBSPreview":"https://obs.ninja",
-	"OBSProgram":"https://obs.ninja",
 	"AutoRecord":true,
 	"Transition":"Stinger",
 	"Cut":"Cut",
