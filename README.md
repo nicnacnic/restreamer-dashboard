@@ -1,5 +1,9 @@
 ![](https://github.com/nicnacnic/restreamer-dashboard/blob/main/images/cover.png)
 
+### Update 4/8/2021
+Oh no! It seems that I'm now obsolete, replaced by a newer and shinier program! I can still be used, but only limited support will be available.
+Instead, use my creator's new NodeCG bundle, [obs-control](https://github.com/nicnacnic/obs-control).
+
 # Restreamer-Dashboard
 A visual dashboard using Node-Red to control OBS from another location.
 
